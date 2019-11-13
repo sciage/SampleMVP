@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_gravity="clip_horizontal"
+    android:gravity="center_horizontal"
+    android:background="@color/md_blue_grey_200"
+    android:id="@+id/include_toolbar" />
